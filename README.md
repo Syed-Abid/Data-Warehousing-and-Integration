@@ -1,8 +1,5 @@
 # Data Warehousing and Integration 🛢️🔗
 
-[![GitHub stars](https://img.shields.io/github/stars/your-username/Data-Warehousing-and-Integration.svg?style=flat-square)](https://github.com/your-username/Data-Warehousing-and-Integration/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/your-username/Data-Warehousing-and-Integration.svg?style=flat-square)](https://github.com/your-username/Data-Warehousing-and-Integration/network)
-[![GitHub license](https://img.shields.io/github/license/your-username/Data-Warehousing-and-Integration.svg?style=flat-square)](https://github.com/your-username/Data-Warehousing-and-Integration/blob/main/LICENSE)
 
 Welcome to the "Data Warehousing and Integration" repository! 🛢️🔗 Here, you'll find my journey through the world of data warehousing, integration techniques, and related coursework. Dive into a structured collection of learnings, assignments, and projects organized on a weekly basis.
 
