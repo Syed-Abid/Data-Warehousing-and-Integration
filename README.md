@@ -32,7 +32,7 @@ Contributions are welcome! If you have suggestions, improvements, or want to sha
 
 Questions or suggestions? Reach out to me:
 
-- **Your Name**
+- **Syed Abid Hassan**
 - **Email:** [abidhassanjaffri31@gmail.com](mailto:abidhassanjaffri31@gmail.com)
 
 Happy learning and coding! 🚀
