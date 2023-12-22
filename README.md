@@ -1,5 +1,9 @@
 # Data Warehousing and Integration 🛢️🔗
 
+<div align="center">
+  <img src="https://github.com/Syed-Abid/Data-Warehousing-and-Integration/blob/main/Data%20Warehousing%20Schema.png" alt="Data Warehousing Picture ">
+</div>
+
 
 Welcome to the "Data Warehousing and Integration" repository! 🛢️🔗 Here, you'll find my journey through the world of data warehousing, integration techniques, and related coursework. Dive into a structured collection of learnings, assignments, and projects organized on a weekly basis.
 
