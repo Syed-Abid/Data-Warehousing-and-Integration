@@ -11,7 +11,7 @@ Welcome to the "Data Warehousing and Integration" repository! 🛢️🔗 Here, 
 
 ## 📅 Weekly Progress
 
-- [Week 1]:
+- [Week 1]: Overview of Data Warehouse, Data Marts, Data Lakes and Data Lakehouses
 - [Week 2]:
 - [Week 3]:
 - [Week 4]:
